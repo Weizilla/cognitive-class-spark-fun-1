@@ -2,3 +2,6 @@ jupyter
 findspark
 psutil
 pandas
+numpy
+scipy
+graphframes

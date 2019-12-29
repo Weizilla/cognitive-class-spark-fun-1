@@ -109,3 +109,5 @@ robot-int-test/output
 
 ### lab data files
 !/notebook/*.log
+notebook/metastore_db
+notebook/derby.log
